@@ -1,4 +1,4 @@
-<h1><a href="https://mykhalenych.github.io/layout-test/">Upqode layout</a></h1>
+<h1><a href="https://mykhalenych.github.io/layout-test/src/index.html">Upqode layout</a></h1>
 
 <ul>The tech stack is:</ul>
 
